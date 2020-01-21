@@ -1,2 +1,2 @@
-# INN
-Tests of mutual independence among several random vectors using ranks of nearest neighbors
+# CGK
+A distribution free test of independence among univariate random variables
